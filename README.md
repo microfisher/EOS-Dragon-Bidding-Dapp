@@ -13,14 +13,14 @@
 * 倒计时竞拍：最高出价的三个人获得奖池。
 * 质押分红：分红币可质押后获得分红。
 
-![EOS-Dragon-Bidding-Dapp](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bid-Dapp/main/dice.jpg)
+![EOS接龙竞拍区块链游戏](
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/dice.jpg)
 
-![EOS-Dragon-Bidding-Dapp](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bid-Dapp/main/dragon.jpg)
+![EOS接龙竞拍区块链游戏](
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/dragon.jpg)
 
-![EOS-Dragon-Bidding-Dapp](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bid-Dapp/main/bid.jpg)
+![EOS接龙竞拍区块链游戏](
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/bid.jpg)
 
-![EOS-Dragon-Bidding-Dapp](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bid-Dapp/main/divided.jpg)
+![EOS接龙竞拍区块链游戏](
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/divided.jpg)
