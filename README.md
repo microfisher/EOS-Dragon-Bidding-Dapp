@@ -14,13 +14,13 @@
 * 质押分红：分红币可质押后获得分红。
 
 ![EOS接龙竞拍区块链游戏](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/dice.jpg)
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/master/dice.jpg)
 
 ![EOS接龙竞拍区块链游戏](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/dragon.jpg)
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/master/dragon.jpg)
 
 ![EOS接龙竞拍区块链游戏](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/bid.jpg)
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/master/bid.jpg)
 
 ![EOS接龙竞拍区块链游戏](
-https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/main/divided.jpg)
+https://raw.githubusercontent.com/microfisher/EOS-Dragon-Bidding-Dapp/master/divided.jpg)
